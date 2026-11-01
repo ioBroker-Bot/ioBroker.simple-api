@@ -631,6 +631,7 @@ This adapter supports the following types of authentication:
 ## Changelog
 
 ### **WORK IN PROGRESS**
+- (copilot) Adapter requires node.js >= 22.19.0 now
 - (iobroker-bot) Adapter requires node.js >= 22 now.
 ### 3.0.7 (2025-06-16)
 * (@GermanBluefox) corrected reading of history data
